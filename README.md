@@ -6,4 +6,4 @@ Google play link:
 
 https://play.google.com/store/apps/details?id=com.weibang.nbyn
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/weibanghuang/Android-Game-nbyn/blob/main/image.png)
