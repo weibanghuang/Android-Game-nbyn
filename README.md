@@ -1,5 +1,6 @@
 # Android Game nbyn
- MainActivity java code from my android game nbyn
+
+Sample java and xml code from my android game nbyn
 
 Google play link: 
 
