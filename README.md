@@ -1,6 +1,7 @@
 # Android Game nbyn
 
-Sample java and xml code from my android game nbyn
+Only anim, drawable, java, and layout are provided. 
+Graddle and manifest not included.
 
 Google play link: 
 
